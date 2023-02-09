@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+
+.head1 {
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+.head2{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.paragraph{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.mysteryland{
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
